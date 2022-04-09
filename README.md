@@ -1,10 +1,12 @@
 # Store-Management
+
 Online Store Management System Project in PHP is a web-based application developed 
 for serving shopping centers, shopping malls, etc. As the project title implies, the main 
 aim of this project is to create a platform for online shopping. After the implementation of 
 this project, customers can choose and order the desired products from anywhere with 
 internet access. The project promotes e-commerce and growing trade competition in the 
 market.
+
 Nowadays, almost all people are busy with their own works or business. They don’t even 
 have time to go to the market for shopping. Although they are in the need of something, 
 they can’t go to shopping centers due to shortage of time. The exiting traditional system of 
@@ -22,8 +24,11 @@ Within a certain time your purchased item is delivered at your door.
 Note: 
 This project has been referenced from phpgurukul
 with additional features of:
+
 *Report generation
+
 *Stock Managemnet (Quantity and automatic 'in-stock and out-stock' features and admin feature of restocking the products)
+
 
 DATABASE FILE IS FOUND IN THE DATABASE FOLDER
 1) Create a database names "shopping"
@@ -31,11 +36,15 @@ DATABASE FILE IS FOUND IN THE DATABASE FOLDER
 
 ------------------------
 admin uderid: admin
+
 password: 1234
 
 -------------
 user id: eren@gmail.com
+
 password: 12345678
+
+Note: You can create a new user and then login
 
 ---------------------------
 ER DIAGRAM
@@ -53,13 +62,20 @@ More Images:
 ![image](https://user-images.githubusercontent.com/85788582/162222229-3ed75c96-8ff6-43ea-a8f2-e1306c205448.png)
 
 
+
 FUTURE ENHANCEMENTS
+
 The project deals with simple implementation of online shopping. This can be further improvised in many ways. Future scope of the project is vast and can be used in 
 many ways:
+
 •	User can receive email notifications about their order.
+
 •	It can be taken to a higher level by giving access to each Company to sell their products on the platform and maintain individual record.
+
 •	User notifications about Sales/Discounts or notifications about a wishlisted product being back in stock.
+
 •	Improve featured/recommendations based on users search history.
+
 •	A feature of ‘pre-ordering’ of products could be provided.
 
 
